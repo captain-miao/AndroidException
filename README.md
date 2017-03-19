@@ -1,5 +1,5 @@
 # AndroidException
-All Exceptions About User Device Or Android OS.
+Record all exceptions associated with mobile devices or Android OS.
 
 ## All Exceptions
 issues [All Exceptions](https://github.com/captain-miao/AndroidException/issues)
